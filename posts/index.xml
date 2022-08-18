@@ -3,7 +3,15 @@
         <title>All Posts - 我的全新 Hugo 网站</title>
         <link>https://hongtao-xu.github.io/posts/</link>
         <description>All Posts | 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 18 Aug 2022 17:17:41 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 18 Aug 2022 18:34:24 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Second</title>
+    <link>https://hongtao-xu.github.io/second/</link>
+    <pubDate>Thu, 18 Aug 2022 18:34:24 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://hongtao-xu.github.io/second/</guid>
+    <description><![CDATA[这是关于自动摘要的测试]]></description>
+</item>
+<item>
     <title>First_post</title>
     <link>https://hongtao-xu.github.io/first_post/</link>
     <pubDate>Thu, 18 Aug 2022 17:17:41 &#43;0800</pubDate>
