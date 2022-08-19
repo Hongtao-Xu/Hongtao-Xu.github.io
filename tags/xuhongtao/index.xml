@@ -1,13 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>xuhongtao - Tag - 我的全新 Hugo 网站</title>
+        <title>xuhongtao - Tag - XHT的博客</title>
         <link>https://hongtao-xu.github.io/tags/xuhongtao/</link>
-        <description>xuhongtao - Tag - 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 18 Aug 2022 18:34:24 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/tags/xuhongtao/" rel="self" type="application/rss+xml" /><item>
+        <description>xuhongtao - Tag - XHT的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Thu, 18 Aug 2022 18:34:24 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/tags/xuhongtao/" rel="self" type="application/rss+xml" /><item>
     <title>Second</title>
     <link>https://hongtao-xu.github.io/second/</link>
     <pubDate>Thu, 18 Aug 2022 18:34:24 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>徐宏涛</author>
     <guid>https://hongtao-xu.github.io/second/</guid>
     <description><![CDATA[这是关于自动摘要的测试]]></description>
 </item>

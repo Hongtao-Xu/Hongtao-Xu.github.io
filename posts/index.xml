@@ -1,13 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - 我的全新 Hugo 网站</title>
+        <title>All Posts - XHT的博客</title>
         <link>https://hongtao-xu.github.io/posts/</link>
-        <description>All Posts | 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 18 Aug 2022 18:34:24 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <description>All Posts | XHT的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Thu, 18 Aug 2022 18:34:24 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Second</title>
     <link>https://hongtao-xu.github.io/second/</link>
     <pubDate>Thu, 18 Aug 2022 18:34:24 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>徐宏涛</author>
     <guid>https://hongtao-xu.github.io/second/</guid>
     <description><![CDATA[这是关于自动摘要的测试]]></description>
 </item>
@@ -15,7 +16,7 @@
     <title>First_post</title>
     <link>https://hongtao-xu.github.io/first_post/</link>
     <pubDate>Thu, 18 Aug 2022 17:17:41 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>徐宏涛</author>
     <guid>https://hongtao-xu.github.io/first_post/</guid>
     <description><![CDATA[1.一级标题 啊手动阀a士大夫 DSFADSVF DASF 2.一级标题 3.一级标题]]></description>
 </item>
