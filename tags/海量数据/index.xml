@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>海量数据 - Tag - XHT的博客</title>
+        <link>https://hongtao-xu.github.io/tags/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE/</link>
+        <description>海量数据 - Tag - XHT的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Sat, 20 Aug 2022 22:44:43 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/tags/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE/" rel="self" type="application/rss+xml" /><item>
+    <title>海量数据处理算法</title>
+    <link>https://hongtao-xu.github.io/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%AE%97%E6%B3%95/</link>
+    <pubDate>Sat, 20 Aug 2022 22:44:43 &#43;0800</pubDate>
+    <author>徐宏涛</author>
+    <guid>https://hongtao-xu.github.io/%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%AE%97%E6%B3%95/</guid>
+    <description><![CDATA[关于处理海量数据的思路与常用数据结构]]></description>
+</item>
+</channel>
+</rss>

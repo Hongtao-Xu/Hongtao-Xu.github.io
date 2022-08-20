@@ -1,18 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - XHT的博客</title>
-        <link>https://hongtao-xu.github.io/posts/</link>
-        <description>All Posts | XHT的博客</description>
+        <title>算法 - Category - XHT的博客</title>
+        <link>https://hongtao-xu.github.io/categories/%E7%AE%97%E6%B3%95/</link>
+        <description>算法 - Category - XHT的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
-            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Sat, 20 Aug 2022 23:14:40 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>MySql常见知识点</title>
-    <link>https://hongtao-xu.github.io/mysql%E5%B8%B8%E8%A7%81%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
-    <pubDate>Sat, 20 Aug 2022 23:14:40 &#43;0800</pubDate>
-    <author>徐宏涛</author>
-    <guid>https://hongtao-xu.github.io/mysql%E5%B8%B8%E8%A7%81%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
-    <description><![CDATA[关于MySql数据库常见问题的记录]]></description>
-</item>
-<item>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Sat, 20 Aug 2022 22:47:59 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/categories/%E7%AE%97%E6%B3%95/" rel="self" type="application/rss+xml" /><item>
     <title>区间调度算法</title>
     <link>https://hongtao-xu.github.io/%E5%8C%BA%E9%97%B4%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98/</link>
     <pubDate>Sat, 20 Aug 2022 22:47:59 &#43;0800</pubDate>
