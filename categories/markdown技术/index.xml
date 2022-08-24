@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>markdown技术 - Category - XHT的博客</title>
+        <link>https://hongtao-xu.github.io/categories/markdown%E6%8A%80%E6%9C%AF/</link>
+        <description>markdown技术 - Category - XHT的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Wed, 24 Aug 2022 18:38:07 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/categories/markdown%E6%8A%80%E6%9C%AF/" rel="self" type="application/rss+xml" /><item>
+    <title>测试markdown插入视频</title>
+    <link>https://hongtao-xu.github.io/%E6%B5%8B%E8%AF%95markdown%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/</link>
+    <pubDate>Wed, 24 Aug 2022 18:38:07 &#43;0800</pubDate>
+    <author>徐宏涛</author>
+    <guid>https://hongtao-xu.github.io/%E6%B5%8B%E8%AF%95markdown%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/</guid>
+    <description><![CDATA[测试插入B站视频链接]]></description>
+</item>
+</channel>
+</rss>

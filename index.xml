@@ -4,9 +4,17 @@
         <link>https://hongtao-xu.github.io/</link>
         <description>这是我个人知识博客网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
-            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Sat, 20 Aug 2022 23:14:40 &#43;0800</lastBuildDate>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Wed, 24 Aug 2022 18:38:07 &#43;0800</lastBuildDate>
             <atom:link href="https://hongtao-xu.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>测试markdown插入视频</title>
+    <link>https://hongtao-xu.github.io/%E6%B5%8B%E8%AF%95markdown%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/</link>
+    <pubDate>Wed, 24 Aug 2022 18:38:07 &#43;0800</pubDate>
+    <author>徐宏涛</author>
+    <guid>https://hongtao-xu.github.io/%E6%B5%8B%E8%AF%95markdown%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/</guid>
+    <description><![CDATA[测试插入B站视频链接]]></description>
+</item>
+<item>
     <title>MySql常见知识点</title>
     <link>https://hongtao-xu.github.io/mysql%E5%B8%B8%E8%A7%81%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
     <pubDate>Sat, 20 Aug 2022 23:14:40 &#43;0800</pubDate>
