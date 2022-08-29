@@ -4,9 +4,17 @@
         <link>https://hongtao-xu.github.io/</link>
         <description>这是我个人知识博客网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
-            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Mon, 29 Aug 2022 00:53:55 &#43;0800</lastBuildDate>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Tue, 30 Aug 2022 00:45:23 &#43;0800</lastBuildDate>
             <atom:link href="https://hongtao-xu.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>LoveIt主题的优化</title>
+    <link>https://hongtao-xu.github.io/loveit%E4%B8%BB%E9%A2%98%E7%9A%84%E4%BC%98%E5%8C%96/</link>
+    <pubDate>Tue, 30 Aug 2022 00:45:23 &#43;0800</pubDate>
+    <author>徐宏涛</author>
+    <guid>https://hongtao-xu.github.io/loveit%E4%B8%BB%E9%A2%98%E7%9A%84%E4%BC%98%E5%8C%96/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Nignx常见面试题</title>
     <link>https://hongtao-xu.github.io/nignx%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
     <pubDate>Mon, 29 Aug 2022 00:53:55 &#43;0800</pubDate>
