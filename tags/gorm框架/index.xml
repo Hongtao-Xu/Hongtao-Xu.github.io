@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>gorm框架 - Tag - XHT的博客</title>
+        <link>https://hongtao-xu.github.io/tags/gorm%E6%A1%86%E6%9E%B6/</link>
+        <description>gorm框架 - Tag - XHT的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Sun, 25 Sep 2022 21:51:58 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/tags/gorm%E6%A1%86%E6%9E%B6/" rel="self" type="application/rss+xml" /><item>
+    <title>Gorm框架的使用注意事项</title>
+    <link>https://hongtao-xu.github.io/gorm%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</link>
+    <pubDate>Sun, 25 Sep 2022 21:51:58 &#43;0800</pubDate>
+    <author>徐宏涛</author>
+    <guid>https://hongtao-xu.github.io/gorm%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</guid>
+    <description><![CDATA[关于Gorm框架的使用一些小坑]]></description>
+</item>
+</channel>
+</rss>
