@@ -4,7 +4,15 @@
         <link>https://hongtao-xu.github.io/categories/%E7%AE%97%E6%B3%95/</link>
         <description>算法 - Category - XHT的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
-            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Sat, 20 Aug 2022 22:47:59 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/categories/%E7%AE%97%E6%B3%95/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Tue, 04 Oct 2022 21:10:41 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/categories/%E7%AE%97%E6%B3%95/" rel="self" type="application/rss+xml" /><item>
+    <title>矩阵相关算法</title>
+    <link>https://hongtao-xu.github.io/%E7%9F%A9%E9%98%B5%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95/</link>
+    <pubDate>Tue, 04 Oct 2022 21:10:41 &#43;0800</pubDate>
+    <author>徐宏涛</author>
+    <guid>https://hongtao-xu.github.io/%E7%9F%A9%E9%98%B5%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>区间调度算法</title>
     <link>https://hongtao-xu.github.io/%E5%8C%BA%E9%97%B4%E8%B0%83%E5%BA%A6%E9%97%AE%E9%A2%98/</link>
     <pubDate>Sat, 20 Aug 2022 22:47:59 &#43;0800</pubDate>

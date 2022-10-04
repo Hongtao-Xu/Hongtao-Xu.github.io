@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>矩阵有关的常见算法 - Tag - XHT的博客</title>
+        <link>https://hongtao-xu.github.io/tags/%E7%9F%A9%E9%98%B5%E6%9C%89%E5%85%B3%E7%9A%84%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/</link>
+        <description>矩阵有关的常见算法 - Tag - XHT的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2386942240@qq.com (徐宏涛)</managingEditor>
+            <webMaster>2386942240@qq.com (徐宏涛)</webMaster><lastBuildDate>Tue, 04 Oct 2022 21:10:41 &#43;0800</lastBuildDate><atom:link href="https://hongtao-xu.github.io/tags/%E7%9F%A9%E9%98%B5%E6%9C%89%E5%85%B3%E7%9A%84%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/" rel="self" type="application/rss+xml" /><item>
+    <title>矩阵相关算法</title>
+    <link>https://hongtao-xu.github.io/%E7%9F%A9%E9%98%B5%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95/</link>
+    <pubDate>Tue, 04 Oct 2022 21:10:41 &#43;0800</pubDate>
+    <author>徐宏涛</author>
+    <guid>https://hongtao-xu.github.io/%E7%9F%A9%E9%98%B5%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
